@@ -1,0 +1,15 @@
+{
+	"name": "superbot",
+ 	"version": "0.1.0",
+ 	"description": "Small IRC bot with auto reloading plugin support.",
+ 	"main": "superbot.js",
+  
+ 	"dependencies": {
+		"irc": "x.x",
+		"request": "x.x"
+	},
+
+	"repository": "",
+	"author": "Philipp Waldhauer",
+	"license": "BSD"
+}

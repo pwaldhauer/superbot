@@ -1,0 +1,9 @@
+{
+	"host": "irc.freenode.net",
+	"password": "",
+	"nick": "Alfred",
+	"channels": ["#test"],
+
+	"debug": true,
+	"plugins": "./plugins/"
+}
